@@ -1,4 +1,4 @@
-
+Things 3 for macOS exclusive Integration - markdown support and quick search is the best Things 3 for macOS integration, featuring markdown support and quick search. Safe,
 
 
 
